@@ -1,0 +1,15 @@
+#gameBoard{
+    text-align: center;
+}
+#canvas{
+       background-color:green;
+       border: 5px solid;
+}
+#Score{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btn{
+    border: 2px solid;
+    border-radius: 10px;
+    
+}
